@@ -13,16 +13,16 @@ It leverages a **fine-tuned BERT NLP model** to extract environmental claims vs.
 
 ---
 
-## 🔑 Features
-- 📑 Upload ESG/Sustainability reports for instant analysis  
-- 🤖 AI-driven claim vs. action detection using **BERT**  
-- 📊 Generate a **Greenwashing Score** to measure transparency  
-- ✅ YES/NO flag on greenwashing likelihood  
-- 🌍 Designed for **investors, analysts, and researchers**  
+## Features
+- Upload ESG/Sustainability reports for instant analysis  
+- AI-driven claim vs. action detection using **BERT**  
+- Generate a **Greenwashing Score** to measure transparency  
+- YES/NO flag on greenwashing likelihood  
+- Designed for **investors, analysts, and researchers**  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** React.js + TypeScript  
 - **Backend:** Flask / FastAPI  
 - **AI Model:** Fine-tuned **BERT** for ESG/Environment data  
@@ -31,7 +31,7 @@ It leverages a **fine-tuned BERT NLP model** to extract environmental claims vs.
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙Installation & Setup
 Clone the repo:
 ```bash
 git clone https://github.com/tanushdev/GreenIntellect.git
@@ -52,17 +52,17 @@ npm start
 
 ---
 
-## 📈 Use Cases
-- 🌱 **Investors** – verify sustainability claims  
-- 🏢 **Companies** – audit ESG transparency  
-- 📊 **Researchers** – analyze greenwashing practices  
+## Use Cases
+- **Investors** – verify sustainability claims  
+- **Companies** – audit ESG transparency  
+- **Researchers** – analyze greenwashing practices  
 
 ---
 
 ## 👤 Author
 **Tanush**  
 📧 tanushshyam42@gmail.com  
-🔗 [GitHub](https://github.com/tanushdev) | [LinkedIn](#)  
+🔗 [GitHub](https://github.com/tanushdev) | [LinkedIn](https://www.linkedin.com/in/tanushshyam/)  
 
 ---
 ⭐ If you find this project useful, consider giving it a star!
