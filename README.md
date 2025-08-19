@@ -7,7 +7,7 @@
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 **GreenIntellect** is an **AI-powered web platform** that detects **greenwashing** in ESG and sustainability reports.  
 It leverages a **fine-tuned BERT NLP model** to extract environmental claims vs. actions, compute a **Greenwashing Score**, and flag reports as **transparent or misleading**.  
 
